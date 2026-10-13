@@ -1,21 +1,31 @@
 # Nitish Kumar
 
-### Applied AI Engineer | LLMs · RAG · Agentic AI
+### AI Engineer | LLM applications · RAG · SAP
 
-Software Engineer with **4+ years of experience**, building **AI-powered enterprise systems** focused on **LLMs, RAG, agentic workflows, and AI orchestration**.
+I am an AI Engineer at Sopra Steria, India, with around four years of software engineering experience. I started with SAP ABAP and moved into Generative AI in 2022.
 
-### What I Build
+My work includes RAG systems, MCP servers, agent workflows, and LLM-assisted SAP custom-code migration.
 
-* **AI-powered code migration** — dependency-aware agentic workflows for enterprise code transformation, with analysis → remediation → verification.
-* **RAG systems** — document ingestion, retrieval, metadata filtering, re-ranking, and evaluation.
-* **Production AI workflows** — orchestration, parallel execution, validation, retries, and human-in-the-loop systems.
+## Core technologies
 
-### Core Stack
+Python · FastAPI · PostgreSQL / pgvector · Celery · Azure · SAP ABAP
 
-**Python · FastAPI · LangChain · LangGraph · LLMs · RAG · Hugging Face · PyTorch · SQL · PySpark · GCP · Vertex AI · PostgreSQL · Docker**
+## Selected personal projects
 
-### Focus
+These repositories show my experiments and learning. Their status is listed below; they are separate from my employer's projects.
 
-Building **reliable, measurable, production-grade AI systems** rather than LLM prototypes.
+| Project | Focus | Current status |
+| --- | --- | --- |
+| [SAP data assistant](https://github.com/Nitsh-kumar/Custom-genai) | Natural-language queries over SAP-style data, with SQLite and OData variants on separate branches. | Prototype. Configuration, query safety, and setup documentation need work. |
+| [MCP practice lab](https://github.com/Nitsh-kumar/MCP_2_interview-guide/tree/master/mcp_deep_practice) | Protocol lessons, demos, exercises, reference solutions, and tests. | Learning lab. Lessons 00–08 are present; later curriculum stages are planned. |
+| [AI chat application](https://github.com/Nitsh-kumar/GPT_craft) | FastAPI backend, Groq inference, and database-backed conversations, with a separate React frontend branch. | In development. Frontend integration, authentication, and quota handling need verification and fixes. |
 
-**Phone No. -** +91 8006569463 **Email :** Tevathiyanitish800600@gmail.com
+## Engineering interests
+
+- Retrieval quality and practical RAG design.
+- Tool permissions, retries, and failure handling in agent workflows.
+- AI applications for enterprise and SAP use cases.
+
+## Contact
+
+[Email](mailto:Tevathiyanitish800600@gmail.com)
